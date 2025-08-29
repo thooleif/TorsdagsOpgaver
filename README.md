@@ -1,4 +1,4 @@
-# data-startup
+# TorsdagsOpgaver
 
 The works throughout the study of Datamatik
 
